@@ -10,7 +10,7 @@
         "live-server": "live-server"
     },
     "dependencies": {
-        "node-sass": "^4.14.1"
+        "node-sass": "^7.0.0"
     },
     "devDependencies": {
         "@types/node-sass": "^4.11.0",
